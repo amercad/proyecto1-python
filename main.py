@@ -1,5 +1,4 @@
 # Hola mundo con python
-
 # Salida por consola
 
 '''
